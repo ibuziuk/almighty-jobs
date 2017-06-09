@@ -1,4 +1,4 @@
-== Almighty Jenkins Builder jobs
+== Almighty Jenkins Builder jobs - Updating from che
 
 image:https://ci.centos.org/buildStatus/icon?job=devtools-jjb-service[Jenkins,link="https://ci.centos.org/view/Devtools/job/devtools-jjb-service/lastBuild/"]
 
